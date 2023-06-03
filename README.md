@@ -1,5 +1,5 @@
 # Sql-project-
-we have to answer of these problem?
+we have to find answer of these problem?
 
 1. Who is the senior most employee based on job title?
 2. Which countries have the most Invoices?
